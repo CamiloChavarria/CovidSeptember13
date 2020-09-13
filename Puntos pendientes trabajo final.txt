@@ -1,0 +1,28 @@
+
+
+* Si al buscar un documento, el sistema no lo encuentra, la respuesta debe ser "false" y mostrar un mensaje acorde.
+
+
+
+* Usar un verbo para actualizar la información y otro para cambiar el estado de la tarea.
+
+
+
+
+
+
+Puntos extra para los equipos que:
+* Usen elementos adicionales, tales como tokens o validaciones en los headers o a través de librerías externas como JWT
+* Publiquen el API en algún servidor y envíen la URL
+
+
+
+
+
+<div class="custom-control custom-switch">
+          <input type="checkbox" class="custom-control-input" id="status" name="status" value="{{note.status}}">
+          <label class="custom-control-label" for="status">Status</label>
+        </div>
+
+
+

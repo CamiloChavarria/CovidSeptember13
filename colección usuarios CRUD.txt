@@ -1,0 +1,4 @@
+username,
+ password,
+ active, 
+created_at

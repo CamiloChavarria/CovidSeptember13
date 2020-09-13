@@ -1,0 +1,18 @@
+placa
+created ad
+estado
+
+
+
+marca
+color
+modelo
+descripción
+polarizado
+tipo (pick up, )
+automatico
+
+
+
+
+title , placa, marca, modelo, tipo, color, description, number, text
